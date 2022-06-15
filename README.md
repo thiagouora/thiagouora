@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiago Uora.
-- 👀 I’m interested in Mobile Developer.
+- 👀 I’m interested in Front-End and Mobile Developer.
 - 🌱 I’m currently learning Front-End and JS.
 - 📫 How to reach me thiagouora@outlook.com.
 
