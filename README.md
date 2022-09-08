@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-End and Mobile Developer.
 - 🌱 I’m currently learning Front-End and JS.
 - 📫 How to reach me thiagouora@outlook.com.
+- ✅ https://portfoliouora.vercel.app
 
 <!---
 thiagouora/thiagouora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
